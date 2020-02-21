@@ -1,0 +1,13 @@
+[                                     
+
+    {                                     
+        "name": "${name}",
+        "budget": {
+            "amount": "${amount}",
+            "policy": "dateRange",
+            "startDate": "20191201",
+            "endDate": "20191231"
+        },
+        "state": "${state}"
+    }
+]

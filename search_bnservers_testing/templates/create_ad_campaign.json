@@ -1,0 +1,10 @@
+[
+    {                                     
+        "name": "${campaign_name}",
+        "state": "enabled",
+        "startDate": "20191010",
+        "campaignType": "sponsoredProducts",
+        "targetingType": "${campaign_type}",
+        "dailyBudget": 1.00
+    }
+]

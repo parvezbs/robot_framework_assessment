@@ -1,0 +1,8 @@
+[
+    {
+        "adGroupId": ${adGroupId},
+        "campaignId": ${campaignId},
+        "sku": "${sku}",
+        "state": "enabled"
+    }
+]

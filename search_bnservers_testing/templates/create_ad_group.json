@@ -1,0 +1,8 @@
+[
+    {
+    "name": "${name}",
+    "campaignId": ${campaignId},
+    "defaultBid": 1.20,
+    "state": "${state}"
+    }
+]
